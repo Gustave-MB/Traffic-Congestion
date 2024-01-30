@@ -1,4 +1,3 @@
-```markdown
 # Predicting Traffic Congestion with Machine Learning
 
 ## Overview
@@ -43,4 +42,3 @@ The implementation of a traffic congestion forecasting system is recommended to 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
